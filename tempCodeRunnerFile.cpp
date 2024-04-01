@@ -1,0 +1,1 @@
+print_alternate_primes(N);
